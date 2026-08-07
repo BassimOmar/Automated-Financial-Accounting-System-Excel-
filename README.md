@@ -26,3 +26,9 @@ The project applies core accounting principles while leveraging Excel formulas t
 * Data Organization
 * Financial Reporting
 * Spreadsheet Automation
+
+* ## 📸 Preview
+
+<img width="1167" height="657" alt="COA" src="https://github.com/user-attachments/assets/43152b69-04c6-49af-8343-55ad8a37b67e" />
+
+---
