@@ -28,7 +28,7 @@ The project applies core accounting principles while leveraging Excel formulas t
 * Spreadsheet Automation
 
 * ## 📸 Preview
-<img width="827" height="607" alt="COA" src="https://github.com/user-attachments/assets/2b639d16-db53-4a6f-b2ba-2dffd1a43f3c" />
+<img  width="596" height="337" alt="COA" src="https://github.com/user-attachments/assets/2b639d16-db53-4a6f-b2ba-2dffd1a43f3c" />
 
 ---
 <img width="827" height="607" alt="Journal" src="https://github.com/user-attachments/assets/1f82444e-f6cb-4e69-a8f6-209295a73c1c" />
